@@ -15,3 +15,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 10, Najmi, 2,XL 1, S1
 11, demonizasion, 1, S1
 12, FryShadow, 1, XL 1
+13, AM|R, 1, L 1
