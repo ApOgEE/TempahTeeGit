@@ -6,4 +6,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 1, ApOgEE, 2, M 1, L 1
 2, Hafidz, 1, S 1
 3, Robotys, 1, XXL 1
-
+4, d0lph1n, 1, L 1
