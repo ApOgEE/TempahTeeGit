@@ -24,7 +24,7 @@ baru la terasa poyo sikit semangatnya... hahahaha...
 
 
 Cara tempahan dari repo ni...
- 1. Clone repo ni.
+ 1. Fork (menggarfu) repo ni.
  2. Update nama sendiri dalam file senarai tu
  3. Push balik kat repo korang dalam github
  4. Buat PULL REQUEST supaya aku update
