@@ -14,3 +14,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 9, firdausramlan, 2, XXL 2
 10, Najmi, 2,XL 1, S1
 11, demonizasion, 1, S1
+12, Akirien, 1, M1
