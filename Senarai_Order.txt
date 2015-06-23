@@ -10,3 +10,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 5, zulhilmixrahman, 1, XXL 1
 6, Akim, 1, S 1
 7, Hafeez, 1, XL 1
+8, LinuxMalaysia, 2, XL 2
