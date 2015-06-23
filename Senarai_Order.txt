@@ -8,3 +8,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 3, Robotys, 1, XXL 1
 4, d0lph1n, 1, L 1
 5, zulhilmixrahman, 1, XXL 1
+6, Hafeez, 1, XL 1
