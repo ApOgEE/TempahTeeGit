@@ -4,4 +4,5 @@ Sila tulis Nama/Nickname, jumlah tshirt, saiz dan jumlah untuk saiz tu. Lepas tu
 Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 
 1, ApOgEE, 2, M 1, L 1
+2, Hafidz, 1, S 1
 
