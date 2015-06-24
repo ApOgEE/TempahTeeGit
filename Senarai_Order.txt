@@ -41,3 +41,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 35, Amran ,1 , L 1
 36, Khalid Al-Walid, 1, L 1
 37, Rasyadi, 1, S 1 
+38, Nasrul, M 1
