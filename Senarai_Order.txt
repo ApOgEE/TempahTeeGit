@@ -22,3 +22,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 16, j3b47, 1, L 1
 17, Hidzuan Hashim, 1, 2XL 1, (via PM FB)
 18, AL ZA, 1, M 1, (via PM FB)
+19, Akmal Fikri Abdul Rahman, 2, L 2, (via PM FB)
