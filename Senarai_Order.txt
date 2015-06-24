@@ -25,5 +25,6 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 19, Akmal Fikri Abdul Rahman, 2, L 2, (via PM FB)
 20, Sufian Ahmad, 1, XXL 1, (via PM FB)
 21, Akirien, 1, M 1
+22, Mohammad Nurdin, 1, L 1 (via PM FB)
 22, Lina, 1, L, 1
 23, AmirolAhmad, 1, M 1
