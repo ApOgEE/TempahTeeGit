@@ -13,13 +13,14 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 7, Hafeez, 1, XL 1
 8, LinuxMalaysia, 2, L 1, XL 1
 9, firdausramlan, 2, XXL 2
-10, Najmi, 2,XL 1, S1
-11, demonizasion, 1, S1
+10, Najmi, 2, XL 1, S 1
+11, demonizasion, 1, S 1
 12, FryShadow, 1, XL 1
 13, AM|R, 1, L 1
 14, faizalmansor, 1, L 1
 15, MegMeg, 1, S 1
 16, j3b47, 1, L 1
-17, Hidzuan Hashim, 1, 2XL 1, (via PM FB)
+17, Hidzuan Hashim, 1, XXL 1, (via PM FB)
 18, AL ZA, 1, M 1, (via PM FB)
 19, Akmal Fikri Abdul Rahman, 2, L 2, (via PM FB)
+20, Sufian Ahmad, 1, XXL 1, (via PM FB)
