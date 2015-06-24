@@ -32,3 +32,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 26, Piju, 1, XL 1
 27, Muhammad syafiqf faiz 1, M 1
 28, bizkut, 1, S 1
+29, Muhaimin CS, 2, M 2
+
