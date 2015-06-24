@@ -29,5 +29,5 @@ Cara tempahan dari repo ni...
 
 tu aje... terima kasih!
 
-[](git_tshirt_preview.png)
+![](git_tshirt_preview.png)
 
