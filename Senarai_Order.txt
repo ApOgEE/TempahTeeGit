@@ -4,6 +4,8 @@ Sila tulis Nama/Nickname, jumlah tshirt, saiz dan jumlah untuk saiz tu.
 Lepas tu buat la PULL REQUEST supaya order tu masuk senarai.
 Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 
+(Apa barang pakai PM FB - LinuxMalaysia :-) )
+
 1, ApOgEE, 2, M 1, L 1
 2, Hafidz, 1, S 1
 3, Robotys, 1, XXL 1
@@ -11,7 +13,7 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 5, zulhilmixrahman, 1, XXL 1
 6, Akim, 1, S 1
 7, Hafeez, 1, XL 1
-8, LinuxMalaysia, 2, L 1, XL 1
+8, LinuxMalaysia, 4, L 1, XL 3
 9, firdausramlan, 2, XXL 2
 10, Najmi, 2, XL 1, S 1
 11, demonizasion, 1, S 1
