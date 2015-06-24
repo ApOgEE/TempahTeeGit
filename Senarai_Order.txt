@@ -20,4 +20,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 14, faizalmansor, 1, L 1
 15, MegMeg, 1, S 1
 16, j3b47, 1, L 1
-17, Hidzuan Hashim, 1, 2XL
+17, Hidzuan Hashim, 1, 2XL 1, (via PM FB)
+18, AL ZA, 1, M 1, (via PM FB)
