@@ -29,3 +29,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 22, Mohammad Nurdin, 1, L 1 (via PM FB)
 22, Lina, 1, L, 1
 23, AmirolAhmad, 1, M 1
+24, mypapit, 1, L 1
