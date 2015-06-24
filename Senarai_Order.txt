@@ -26,3 +26,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 20, Sufian Ahmad, 1, XXL 1, (via PM FB)
 21, Akirien, 1, M 1
 22, Lina, 1, L, 1
+23, AmirolAhmad, 1, M 1
