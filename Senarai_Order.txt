@@ -39,3 +39,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 33, aku_tak_tau, 1, L 1
 34, Shaf, 2, L 1, XL 1
 35, Amran ,1 , L 1
+36, aa6my, 3, XL 1, M 2
