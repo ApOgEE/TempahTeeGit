@@ -4,7 +4,6 @@ Sila tulis Nama/Nickname, jumlah tshirt, saiz dan jumlah untuk saiz tu.
 Lepas tu buat la PULL REQUEST supaya order tu masuk senarai.
 Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 
-0, Piju, 1, XL 1
 1, ApOgEE, 2, M 1, L 1
 2, Hafidz, 1, S 1
 3, Robotys, 1, XXL 1
@@ -27,6 +26,7 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 20, Sufian Ahmad, 1, XXL 1, (via PM FB)
 21, Akirien, 1, M 1
 22, Mohammad Nurdin, 1, L 1 (via PM FB)
-22, Lina, 1, L, 1
-23, AmirolAhmad, 1, M 1
-24, mypapit, 1, L 1
+23, Lina, 1, L, 1
+24, AmirolAhmad, 1, M 1
+25, mypapit, 1, L 1
+26, Piju, 1, XL 1
