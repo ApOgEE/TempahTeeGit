@@ -35,3 +35,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 29, Muhaimin CS, 2, M 2
 30, Hussaini, 1, M 1
 31, Zainoz.Zaini, 1, S 1
+32, Ama Leena NS, 1, L 1
