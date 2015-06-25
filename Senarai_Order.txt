@@ -59,4 +59,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 51, Haezal Musa, 1, XXL 1
 52, Muhamad Hanafiah Yahya, 1, XXL 1
 53, Hadi, 1, L 1
+54, Fariz Izwan Kamaruzzaman, 1 , S 1
 
