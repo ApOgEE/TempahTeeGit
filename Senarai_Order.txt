@@ -48,4 +48,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 40, Nuur, 1, L 1
 41, Khalemi, 1, XL 1
 42, Mahadhir Mohd Asnawi, 1, L 1
+43, wayi, 1, L 1
 
