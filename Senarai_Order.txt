@@ -56,4 +56,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 48, Iszuddin Ismail, 1, XL 1
 49, wayi, 1, L 1
 50, Nawawi Jamili, 1, XXL 1
+51, Haezal Musa, 1, XXL 1
 
