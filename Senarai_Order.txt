@@ -63,4 +63,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 55, Hassan Abu Bakar(odin88), 2, M 1, XL 1
 56, Md Firdauz Ismail, 1, M, 1
 57, Easy, 1, XXL 1
+58, Faiz Shukri, 1, M 1
 
