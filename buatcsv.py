@@ -11,4 +11,4 @@ for row in lines:
 
 print 'Total:',total
 
-open('Senarai.csv', 'w').writelines(lines)
+open('orders.csv', 'w').writelines(lines)
