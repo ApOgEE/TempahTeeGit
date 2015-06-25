@@ -52,4 +52,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 44, Tedbundyjr, 1, XL 1
 45, Ridhuan Daud, 1, L 1
 46, ihateguys, 1, XL 1
+47, Ikram_Lim, 1, XXL 1
 
