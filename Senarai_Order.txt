@@ -58,4 +58,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 50, Nawawi Jamili, 1, XXL 1
 51, Haezal Musa, 1, XXL 1
 52, Muhamad Hanafiah Yahya, 1, XXL 1
-
+53, Hassan Abu Bakar(odin88), 2, M 1, XL 1
