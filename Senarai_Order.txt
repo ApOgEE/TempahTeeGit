@@ -67,4 +67,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 59, x4y, 1, S 1
 60, FatahZull, 1, M 1
 61, Nizam Yaakob, 1, L 1
+62, Izam fahmi, 1, XL 1
 
