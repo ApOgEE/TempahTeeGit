@@ -48,5 +48,21 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 40, Nuur, 1, L 1
 41, Khalemi, 1, XL 1
 42, Mahadhir Mohd Asnawi, 1, L 1
-43, FatahZull, 1, M 1
+43, Syahid Wajdi, 1, M 1
+44, Tedbundyjr, 1, XL 1
+45, Ridhuan Daud, 1, L 1
+46, ihateguys, 1, XL 1
+47, Ikram_Lim, 1, XXL 1
+48, Iszuddin Ismail, 1, XL 1
+49, wayi, 1, L 1
+50, Nawawi Jamili, 1, XXL 1
+51, Haezal Musa, 1, XXL 1
+52, Muhamad Hanafiah Yahya, 1, XXL 1
+53, Hadi, 1, L 1
+54, Fariz Izwan Kamaruzzaman, 1 , S 1
+55, Hassan Abu Bakar(odin88), 2, M 1, XL 1
+56, Md Firdauz Ismail, 1, M, 1
+57, Easy, 1, XXL 1
+58, Faiz Shukri, 1, M 1
+59, FatahZull, 1, M 1
 
