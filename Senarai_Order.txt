@@ -71,4 +71,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 63, Aj, 1, M 1
 64, Firdaus, 1, M 1
 65, Aiden Pearce m zaini, 2, L 2, (via PM FB)
-
+66, Maksuee, 1, L 1, (Bayar melalui En. Haris)
