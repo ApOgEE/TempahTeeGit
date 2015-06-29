@@ -72,4 +72,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 64, Firdaus, 1, M 1
 65, Aiden Pearce m zaini, 2, L 2, (via PM FB)
 66, Azri Ismail, 1, L 1
+67. Hafizul Rasydan, 1, XL, 1
 
