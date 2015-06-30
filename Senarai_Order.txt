@@ -76,4 +76,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 68, Muhammad Ikhwan, 1, L 1
 69. Hafizul Rasydan, 1, XL, 1
 70, breakprimetime, 1, L 1
-
+71, Maksuee, 1, L 1, (Bayar melalui En. Haris)
