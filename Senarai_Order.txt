@@ -74,4 +74,5 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 66, Azri Ismail, 1, L 1
 67, Fairuz, 1, L, 1 
 68, Muhammad Ikhwan, 1, L 1
+69. Hafizul Rasydan, 1, XL, 1
 
